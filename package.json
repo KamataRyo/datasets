@@ -1,0 +1,20 @@
+{
+  "name": "elasticsearch-lesson",
+  "version": "1.0.0",
+  "description": "ld-gourmet-datasets ======== livedoor グルメの研究用データセットです。 2011年4月22日時点でのデータになります。  http://blog.livedoor.jp/techblog/archives/65836960.html",
+  "main": "index.js",
+  "scripts": {
+    "build": "bin/build.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamataRyo/elasticsearch-lesson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KamataRyo/elasticsearch-lesson/issues"
+  },
+  "homepage": "https://github.com/KamataRyo/elasticsearch-lesson#readme"
+}
