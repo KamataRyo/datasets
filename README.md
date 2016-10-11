@@ -1,6 +1,11 @@
-ld-gourmet-datasets
+Elasticsearch lessons with ld-gourmet-datasets
 ========
-livedoor グルメの研究用データセットです。
-2011年4月22日時点でのデータになります。
- http://blog.livedoor.jp/techblog/archives/65836960.html
+livedoor グルメの研究用データセット(https://github.com/livedoor/datasets)を使ったElasticsearchの勉強用リポジトリ。
 
+reference
+http://code46.hatenablog.com/entry/2014/01/21/115620
+
+
+$ npm build
+$ npm start
+$ npm run migrate

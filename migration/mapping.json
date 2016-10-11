@@ -22,13 +22,8 @@
   "mappings": {
     "restaurant": {
       "properties": {
-        "restaurant_id": {
-          "type": "integer"
-        },
-        "name": {
-          "type": "string",
-          "analyzer": "ngram_analyzer"
-        },
+        "restaurant_id": { "type": "integer" },
+        "name": { "type": "string", "analyzer": "ngram_analyzer" },
         "name_alphabet": {
           "type": "string",
           "analyzer": "ngram_analyzer"
